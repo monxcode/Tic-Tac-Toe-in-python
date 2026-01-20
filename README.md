@@ -1,4 +1,4 @@
-# ❌⭕ Tic Tac Toe (Python GUI)
+#  Tic Tac Toe (Python GUI)
 
 A classic **Tic Tac Toe game with a modern desktop-style interface**, built using **Python & Tkinter**.  
 This project features turn tracking, win counters, reset functionality, and a clean dark-themed UI.
@@ -8,13 +8,13 @@ This project features turn tracking, win counters, reset functionality, and a cl
 
 ---
 
-## 🧠 Game Overview
+##  Game Overview
 This is a **2-player (PvP) Tic Tac Toe game** where players take turns marking **X** and **O**.  
 The game automatically detects **wins, draws**, and keeps track of total scores.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 - 🎮 Player vs Player gameplay  
 - 🔁 Turn indicator (Player X / Player O)  
 - 🏆 Win counter for both players  
@@ -25,21 +25,21 @@ The game automatically detects **wins, draws**, and keeps track of total scores.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python**
 - **Tkinter (GUI library)**
 - **messagebox** for alerts
 
 ---
 
-## 📱 Development Environment
+##  Development Environment
 - **Pydroid 3** (Android)
 - Fully coded on **mobile device**
 - No external libraries required
 
 ---
 
-## 🖼️ Interface Highlights
+## Interface Highlights
 - Dark background theme  
 - Centered 3×3 grid layout  
 - Responsive button clicks  
@@ -47,7 +47,7 @@ The game automatically detects **wins, draws**, and keeps track of total scores.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Open **Pydroid 3**
 2. Paste the code into a new Python file
 3. Run the script
@@ -55,8 +55,8 @@ The game automatically detects **wins, draws**, and keeps track of total scores.
 
 ---
 
-## 📂 Project Status
-✅ Completed  
+## Project Status
+✓ Completed  
 Possible future upgrades:
 - AI / Computer mode  
 - Sound effects  
